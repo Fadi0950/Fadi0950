@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning python and socket programing
 - 💞️ I’m looking to collaborate on python
-- 📫 How to reach me ...
+- 📫 How to reach me fahadalikhan429@gmail.com
 
 <!---
 Fadi0950/Fadi0950 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
