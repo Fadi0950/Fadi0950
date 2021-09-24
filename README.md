@@ -8,3 +8,5 @@
 Fadi0950/Fadi0950 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+#detail
+i am learning about git and github try and practing for practical , i thank it will be usefull for me to learn git and github
